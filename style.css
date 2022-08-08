@@ -1,19 +1,39 @@
+@font-face {
+    font-family: "Cubic";
+    src: url(assets/1up/1up.ttf);
+}
+
+@font-face {
+    font-family: "MinerReg";
+    src: url(assets/minecrafter/Minecrafter.Reg.ttf);
+}
+
+@font-face {
+    font-family: "MinerAlt";
+    src: url(assets/minecrafter/Minecrafter.Alt.ttf);
+}
+
+
 .navbar-brand {
-    color: #fff !important;
+    color: rgb(253, 0, 0) !important;
     font-weight: bolder !important;
+    font-family: "Cubic";    
 }
 
 a {
-    color: #fff !important;
+    color: rgb(255, 0, 0) !important;
+    font-weight: 500 !important;
 }
 
 .dropdown-item {
-    color: #000 !important;
+    color: rgb(255, 0, 0) !important;
 }
 
 #logo {
     width: 3%;
-    background-color: rgba(255, 255, 255, 0.925) !important;
+    background-color: rgba(236, 6, 6, 0.925) !important;
     border-radius: 15px;
-    margin-right: 1%;
+    margin-right: 5px;
+    padding: 0;
 }
+
