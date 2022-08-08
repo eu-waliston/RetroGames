@@ -1,0 +1,19 @@
+.navbar-brand {
+    color: #fff !important;
+    font-weight: bolder !important;
+}
+
+a {
+    color: #fff !important;
+}
+
+.dropdown-item {
+    color: #000 !important;
+}
+
+#logo {
+    width: 3%;
+    background-color: rgba(255, 255, 255, 0.925) !important;
+    border-radius: 15px;
+    margin-right: 1%;
+}
